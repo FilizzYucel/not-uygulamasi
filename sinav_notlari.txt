@@ -1,0 +1,4 @@
+filiz yücel:90,100,70
+mehmet yılmaz:90,40,50
+deniz efe:60,80,45
+musa alper:80,70,80

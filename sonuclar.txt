@@ -1,0 +1,4 @@
+filiz yücel:BA->3,50
+mehmet yılmaz:CC->1,00
+deniz efe:CC->1,00
+musa alper:CB->2,50
